@@ -1,0 +1,1 @@
+console.log({name: 'Testing', function: 'practicing git and github', compare: 'comparing both code'})
